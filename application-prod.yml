@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Config-Prod
+    name: Chuchuguasa-Prod
 eureka:
   instance:
     prefer-ip-address: true
